@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\NeverLose\NeverLose\bin\Debug\NeverLose.exe.config
+C:\Users\Admin\source\repos\NeverLose\NeverLose\bin\Debug\NeverLose.exe
+C:\Users\Admin\source\repos\NeverLose\NeverLose\bin\Debug\NeverLose.pdb
+C:\Users\Admin\source\repos\NeverLose\NeverLose\bin\Debug\VelocityAPI.dll
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.Form1.resources
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.Properties.Resources.resources
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.csproj.Up2Date
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.exe
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Debug\NeverLose.pdb
