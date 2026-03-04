@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.Form1.resources
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.Properties.Resources.resources
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.exe
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.pdb
+C:\Users\Admin\Desktop\NerverLose\NeverLose.exe.config
+C:\Users\Admin\Desktop\NerverLose\NeverLose.exe
+C:\Users\Admin\Desktop\NerverLose\NeverLose.pdb
+C:\Users\Admin\source\repos\NeverLose\NeverLose\obj\Release\NeverLose.csproj.Up2Date
